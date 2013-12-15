@@ -1,4 +1,0 @@
-BitCoinKit
-==========
-
-bitcoin app
